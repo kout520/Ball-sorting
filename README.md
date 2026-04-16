@@ -1,0 +1,2 @@
+使用openmv识别小球颜色，主控为stm32F103C8T6
+平台：STM32CubeIDE 和OpenMv
